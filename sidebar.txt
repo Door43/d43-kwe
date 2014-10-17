@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kwe:home|Door43 (kwe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kwe|d43-kwe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kwe/archive/master.zip|d43-kwe.zip]]
+
+**Recent Changes**
+{{changes>ns = kwe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kwe|Ethnologue data]]
+
